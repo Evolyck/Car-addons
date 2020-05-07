@@ -587,7 +587,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>weap_xs_vehicle_weapons</ptfxAssetName>
-	  <audioNameHash>ZR380</audioNameHash>
+	    <audioNameHash>ZR380</audioNameHash>
       <layout>LAYOUT_STD_ARENA_1HONLY</layout>
       <coverBoundOffsets>ZR380_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -791,7 +791,7 @@
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
-      <audioNameHash />
+      <audioNameHash>XA21</audioNameHash>
       <ptfxAssetName>null</ptfxAssetName>
       <layout>LAYOUT_STD_OUTLAW</layout>
       <coverBoundOffsets>OUTLAW_COVER_OFFSET_INFO</coverBoundOffsets>
@@ -888,7 +888,7 @@
         <animConvRoofName>null</animConvRoofName>
         <animConvRoofWindowsAffected />
         <ptfxAssetName>null</ptfxAssetName>
-        <audioNameHash />
+        <audioNameHash>XA21</audioNameHash>
         <layout>LAYOUT_LOW_VAGRANT</layout>
         <coverBoundOffsets>VAGRANT_COVER_OFFSET_INFO</coverBoundOffsets>
         <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -991,7 +991,7 @@
         <animConvRoofName>null</animConvRoofName>
         <animConvRoofWindowsAffected />
         <ptfxAssetName>null</ptfxAssetName>
-        <audioNameHash />
+        <audioNameHash>XA21</audioNameHash>
         <layout>LAYOUT_RANGER_EVERON</layout>
         <coverBoundOffsets>EVERON_COVER_OFFSET_INFO</coverBoundOffsets>
         <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1115,7 +1115,7 @@
           <animConvRoofName>null</animConvRoofName>
           <animConvRoofWindowsAffected />
           <ptfxAssetName>null</ptfxAssetName>
-          <audioNameHash />
+          <audioNameHash>XA21</audioNameHash>
           <layout>LAYOUT_STANDARD</layout>
           <coverBoundOffsets>VSTR_COVER_OFFSET_INFO</coverBoundOffsets>
           <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1236,7 +1236,7 @@
           <animConvRoofName>null</animConvRoofName>
           <animConvRoofWindowsAffected />
           <ptfxAssetName>null</ptfxAssetName>
-          <audioNameHash />
+          <audioNameHash>XA21</audioNameHash>
           <layout>LAYOUT_LOW</layout>
           <coverBoundOffsets>IMORGON_COVER_OFFSET_INFO</coverBoundOffsets>
           <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1340,7 +1340,7 @@
             <animConvRoofName>null</animConvRoofName>
             <animConvRoofWindowsAffected />
             <ptfxAssetName>null</ptfxAssetName>
-            <audioNameHash />
+            <audioNameHash>XA21</audioNameHash>
             <layout>LAYOUT_RANGER_REBLA</layout>
             <coverBoundOffsets>REBLA_COVER_OFFSET_INFO</coverBoundOffsets>
             <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
