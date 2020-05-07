@@ -1240,6 +1240,11 @@
       </Item>
 
     <Item>
+          <parent>vehshare</parent>
+          <child>vehicles_futo2_interior</child>
+    </Item>
+
+    <Item>
       <parent>vehicles_jugular_interior</parent>
       <child>jugular</child>
     </Item>
@@ -1286,6 +1291,11 @@
     <Item>
         <parent>vehicles_race_generic</parent>
         <child>issi7</child>
+    </Item>
+
+    <Item>
+      <parent>vehicles_futo2_interior</parent>
+      <child>nebula</child>
     </Item>
 
   </txdRelationships>
