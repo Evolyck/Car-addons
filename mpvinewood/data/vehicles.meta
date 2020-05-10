@@ -576,7 +576,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>GAUNTLET</audioNameHash>
+      <audioNameHash>SLAMVAN</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>GAUNTLET4_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -680,7 +680,7 @@
         <animConvRoofName>null</animConvRoofName>
         <animConvRoofWindowsAffected />
         <ptfxAssetName>null</ptfxAssetName>
-        <audioNameHash>XA21</audioNameHash>
+        <audioNameHash>TOROS</audioNameHash>
         <layout>LAYOUT_RANGER_NOVAK</layout>
         <coverBoundOffsets>NOVAK_COVER_OFFSET_INFO</coverBoundOffsets>
         <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -799,7 +799,7 @@
         <animConvRoofName>null</animConvRoofName>
         <animConvRoofWindowsAffected />
         <ptfxAssetName>null</ptfxAssetName>
-        <audioNameHash>XA21</audioNameHash>
+        <audioNameHash>SUPERD</audioNameHash>
         <layout>LAYOUT_STD_PARAGON</layout>
         <coverBoundOffsets>GAUNTLET4_COVER_OFFSET_INFO</coverBoundOffsets>
         <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -903,7 +903,7 @@
         <animConvRoofName>null</animConvRoofName>
         <animConvRoofWindowsAffected />
         <ptfxAssetName>null</ptfxAssetName>
-        <audioNameHash>XA21</audioNameHash>
+        <audioNameHash>STRATUM</audioNameHash>
         <layout>LAYOUT_STANDARD</layout>
         <coverBoundOffsets>NEBULA_COVER_OFFSET_INFO</coverBoundOffsets>
         <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1109,7 +1109,7 @@
           <animConvRoofName>null</animConvRoofName>
           <animConvRoofWindowsAffected />
           <ptfxAssetName>null</ptfxAssetName>
-          <audioNameHash>ISSI2</audioNameHash>
+          <audioNameHash>HUSTLER</audioNameHash>
           <layout>LAYOUT_LOW_ISSI7</layout>
           <coverBoundOffsets>ISSI7_COVER_OFFSET_INFO</coverBoundOffsets>
           <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
